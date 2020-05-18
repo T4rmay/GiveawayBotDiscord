@@ -1,2 +1,2 @@
-token: "NDY3NDM2NDgxOTMwMDY3OTcx.DrOnVA.c4tfThkcSKYum0yJRLdfdOkrxOE"
+token: "NzA3ODk2MzIxODcyMjMyNTAw.XsHo6g.LPbCL5Xr0ZKxoZbZ3lkeqqHDd6s"
 prefix: "g!"
